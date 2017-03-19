@@ -1,0 +1,18 @@
+{
+    "app_id" : "com.arcdsc.training",
+    "appname": "ARC Training Center",
+    "versioncode" : "20170318",
+    "versionname" : "3.2.1",
+    "cache_expiration_time" : 3000000,
+    "default_lang" : "en",
+    "languages": {"ar": "عربي", "en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "demo_sites":"",
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http://schools.arcdsc.com/training/",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false",
+    "privacypolicy": ""
+}
