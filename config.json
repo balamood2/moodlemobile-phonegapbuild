@@ -2,7 +2,7 @@
     "app_id" : "com.arcdsc.bq",
     "appname": "(BAKALORETI) باكلوريتي",
     "versioncode" : "20170401",
-    "versionname" : "3.2.1",
+    "versionname" : "3.2.2",
     "cache_expiration_time" : 3000000,
     "default_lang" : "ar",
     "languages": {"ar": "عربي", "en": "English"},
