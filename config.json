@@ -1,9 +1,9 @@
 {
     "app_id" : "com.arcdsc.bq",
-    "appname": "(BAKALORETI) باكلوريتي",
+    "appname": "باكلوريتي",
     "versioncode" : "20170401",
     "versionname" : "3.2.2",
-    "cache_expiration_time" : 3000000,
+    "cache_expiration_time" : 30000000,
     "default_lang" : "ar",
     "languages": {"ar": "عربي", "en": "English"},
     "wsservice" : "moodle_mobile_app",
