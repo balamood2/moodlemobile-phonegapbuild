@@ -1664,10 +1664,6 @@ mm-course-mod-description .card .item {
   height: 300px;
 }
 
-#mm-settings-languagelabel {
-  color: $base-color;
-}
-
 
 $mm-question-correct-color:         #468847 !default;
 $mm-question-incorrect-color:       #b94a48 !default;
@@ -1794,6 +1790,10 @@ li.mm-question-answer-incorrect,
   color: $mm-question-warning-color;
 }
 
+#mm-settings-languagelabel {
+  color: $base-color;
+}
+
 // Variables.
 $bar-side-menu-height: 80px !default;
 $bar-side-menu-color: $bar-content-bg !default;
@@ -1839,6 +1839,9 @@ $bar-side-menu-text-color: $bar-content-text !default;
     padding-bottom: 16px;
 }
 
+.mm-site_coursesgrades .item .badge {
+  right: 16px;
+}
 .mm-site_frontpage {
     .mma-frontpage-item-container .item-media {
         min-height: 55px;
@@ -1861,9 +1864,6 @@ $bar-side-menu-text-color: $bar-content-text !default;
             height: 22px;
         }
     }
-}
-.mm-site_coursesgrades .item .badge {
-  right: 16px;
 }
 $mma-messages-date-badge: "stable" !default;
 
