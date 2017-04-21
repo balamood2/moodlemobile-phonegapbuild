@@ -20,7 +20,7 @@
         <string>3.2.3</string>
     </gap:config-file>
 
-    <gap:platform name="ios" />
+      <gap:platform name="ios" />
 
     <access origin="*" />
     <access origin="tel:*" launch-external="yes" />
@@ -153,13 +153,6 @@
         <uses-permission android:name="android.permission.VIBRATE"/>
     </gap:config-file>
 
-
-
-	<gap:config-file platform="ios" parent="UIBackgroundModes" overwrite="true">
-		<array> 
-			<string>location</string> 
-		</array> 
-	</gap:config-file>
     <gap:config-file platform="ios" parent="CFBundleDocumentTypes" mode="add">
         <array>
             <dict>
@@ -544,6 +537,5 @@
         <dict>
             <key>NSAllowsArbitraryLoads</key><true/>
         </dict>
-    </gap:config-file>
-
+</gap:config-file>
 </widget>
