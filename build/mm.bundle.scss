@@ -1520,6 +1520,19 @@ mm-course-mod-description .card .item {
   margin-top: 0;
 }
 
+.mm-fileuploader-file-handler {
+    input {
+        position: absolute;
+        top: 0;
+        right: 0;
+        min-width: 100%;
+        min-height: 100%;
+        opacity: 0;
+        outline: none;
+        z-index: 100;
+    }
+}
+
 /* - User grades table (most of it extracted from MM1)
 -------------------------------------------------------------------------- */
 .mm-grades-container {
@@ -1622,19 +1635,6 @@ mm-course-mod-description .card .item {
     border-top: 1px solid $item-light-border;
     border-bottom: 1px solid $item-light-border;
   }
-}
-
-.mm-fileuploader-file-handler {
-    input {
-        position: absolute;
-        top: 0;
-        right: 0;
-        min-width: 100%;
-        min-height: 100%;
-        opacity: 0;
-        outline: none;
-        z-index: 100;
-    }
 }
 
 
@@ -1839,6 +1839,9 @@ $bar-side-menu-text-color: $bar-content-text !default;
     padding-bottom: 16px;
 }
 
+.mm-site_coursesgrades .item .badge {
+  right: 16px;
+}
 .mm-site_frontpage {
     .mma-frontpage-item-container .item-media {
         min-height: 55px;
@@ -1861,9 +1864,6 @@ $bar-side-menu-text-color: $bar-content-text !default;
             height: 22px;
         }
     }
-}
-.mm-site_coursesgrades .item .badge {
-  right: 16px;
 }
 $mma-messages-date-badge: "stable" !default;
 
