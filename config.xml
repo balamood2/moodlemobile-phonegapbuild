@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.arcdsc.iuc" versionCode="20170512" version="3.2.1">
   <name>كلية العراق الجامعة</name>
-  <description>&#xD;
-        Iraq University Colloge (كلية العراق الجامعة)&#xD;
+  <description>
+        Iraq University Colloge (كلية العراق الجامعة)
     </description>
-  <author href="http://arcdsc.com" email="info@arcdsc.com">&#xD;
-        ARC DSC &#xD;
+  <author href="http://arcdsc.com" email="info@arcdsc.com">
+        ARC DSC
     </author>
   <content src="index.html"/>
   <gap:config-file platform="ios" parent="CFBundleShortVersionString">
