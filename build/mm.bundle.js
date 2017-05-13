@@ -497,7 +497,7 @@ angular.module('mm.addons.messageoutput_airnotifier').factory('$mmaMessageOutpu
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.arcdsc.uic",
+    "app_id" : "com.arcdsc.iuc",
     "appname": "كلية العراق الجامعة",
     "versioncode" : "20170513",
     "versionname" : "3.2.1",
@@ -509,7 +509,7 @@ angular.module('mm.core')
     "demo_sites":"",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://uic1.arcdsc.com",
+    "siteurl": "http://iuc1.arcdsc.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": ""
