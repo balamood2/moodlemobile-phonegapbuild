@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.arcdsc.bq"
-        versionCode = "20170424"
-        version   = "3.2.5">
-    <name>باكلوريتي</name>
+        id        = "com.arcdsc.uic"
+        versionCode = "20170513"
+        version   = "3.2.1">
+    <name>كلية العراق الجامعة</name>
 
     <description>
-        (BAKALORETI) بكلوريتي
+        كلية العراق الجامعة
     </description>
 
     <author href="http://arcdsc.com" email="info@arcdsc.com">
@@ -17,7 +17,7 @@
 	<content src="index.html"/>
 	
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.2.5</string>
+        <string>3.2.1</string>
     </gap:config-file>
 
       <gap:platform name="ios" />
