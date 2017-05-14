@@ -510,10 +510,10 @@ angular.module('mm.addons.mod_wiki').factory('$mmaModWikiSync', ["$q", "$log", 
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.arcdsc.bq",
-    "appname": "باكلوريتي",
-    "versioncode" : "20170401",
-    "versionname" : "3.2.2",
+    "app_id" : "com.arcdsc.iuc",
+    "appname": "كلية العراق الجامعة",
+    "versioncode" : "20170514",
+    "versionname" : "3.2.1",
     "cache_expiration_time" : 30000000,
     "default_lang" : "ar",
     "languages": {"ar": "عربي", "en": "English"},
@@ -522,7 +522,7 @@ angular.module('mm.core')
     "demo_sites":"",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://bq.arcdsc.com",
+    "siteurl": "http://iuc1.arcdsc.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": ""
