@@ -510,22 +510,7 @@ angular.module('mm.addons.mod_wiki').factory('$mmaModWikiSync', ["$q", "$log", 
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.arcdsc.iuc",
-    "appname": "كلية العراق الجامعة",
-    "versioncode" : "20170514",
-    "versionname" : "3.2.1",
-    "cache_expiration_time" : 30000000,
-    "default_lang" : "ar",
-    "languages": {"ar": "عربي", "en": "English"},
-    "wsservice" : "moodle_mobile_app",
-    "wsextservice" : "local_mobile",
-    "demo_sites":"",
-    "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "http://iuc1.arcdsc.com",
-    "skipssoconfirmation": "false",
-    "forcedefaultlanguage": "false",
-    "privacypolicy": ""
+    "app_id" : "com.arcdsc.iuc1",    "appname": " العراق الجامعة ",    "versioncode" : "20170516",    "versionname" : "3.2.1",    "cache_expiration_time" : 30000000,    "default_lang" : "ar",    "languages": {"ar": "عربي", "en": "English"},    "wsservice" : "moodle_mobile_app",    "wsextservice" : "local_mobile",    "demo_sites":"",    "gcmpn": "694767596569",    "customurlscheme": "moodlemobile",    "siteurl": "http://iuc1.arcdsc.com",    "skipssoconfirmation": "false",    "forcedefaultlanguage": "false",    "privacypolicy": ""
 }
 
 );

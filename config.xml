@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.arcdsc.iuc" versionCode="2017515" version="3.2.1">
-  <name>كلية العراق الجامعة</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.arcdsc.iuc1" versionCode="2017516" version="3.2.1">
+  <name>العراق الجامعة</name>
   <description> 
 		Iraq University College
         كلية العراق الجامعة 
